@@ -98,4 +98,5 @@ The commands will be shown and can be selected
 
 
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+Got a tweak or an improvement? Pop an issue and let’s enhance it. It's that simple.
