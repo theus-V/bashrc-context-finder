@@ -25,14 +25,34 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
 
 ## Installation
 
-1. **Download the script**:
-   - [here](https://github.com/yourusername/bashrc-context-finder/raw/main/info.sh) and choose "Save Link As..." to download the script directly to your computer.
+1. **Install `fzf`**:
+   - On Debian/Ubuntu:
+     ```bash
+     sudo apt install fzf
+     ```
+   - On Fedora:
+     ```bash
+     sudo dnf install fzf
+     ```
+   - On Arch:
+     ```bash
+     sudo pacman -S fzf
+     ```
+   - On openSuse:
+     ```bash
+     sudo zypper install fzf
+     ```
 
-2. **Include the script in your bash session**:
-   - Move the downloaded script to a directory of your choice, for example, `~/scripts/`.
-   - Add the following line to your `.bashrc` file:
+1. **Download the script**:
+   - Download `info.sh`[here](https://github.com/theus-V/bashrc-context-finder/raw/main/info.sh) and choose "Save Link As..." to download the script directly to your computer.
+   - Download `aliases.sh` [here](https://github.com/theus/bashrc-context-finder/raw/main/aliases.sh) and note that the aliases are in German.
+
+2. **Include the scripts in your bash session**:
+   - Move the downloaded scripts to a directory of your choice, for example, `~/scripts/`.
+   - Add the following lines to your `.bashrc` file:
      ```bash
      source ~/scripts/info.sh
+     source ~/scripts/aliases.sh
      ```
 
 3. **Reload your `.bashrc`**:
