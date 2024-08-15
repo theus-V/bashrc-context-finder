@@ -66,10 +66,13 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
    ```bash
    # Use arrow keys and Enter to select and execute
    ```
-⟹ Result:
+
+⟹ **Result:**
+
 |    alias             |    command     |  description  |
+|----------------------|----------------|---------------|
 |pathrenamemove        |mv              | # loremipsum  |
-|pathrenamemovesavety  |mv -i           | # ...         |
+|pathrenamemovesafety  |mv -i           | # ...         |
 
    # The commands will be shown and can be selected
    ```
