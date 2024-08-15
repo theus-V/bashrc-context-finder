@@ -37,8 +37,6 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
    ```
    source ~/.bashrc
    ```
-
-## Usage
 ## Usage
 
 1. **Define an alias for 'mv'**
@@ -74,8 +72,7 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
 |pathrenamemove        |mv              | # loremipsum  |
 |pathrenamemovesafety  |mv -i           | # ...         |
 
-   # The commands will be shown and can be selected
-   ```
+The commands will be shown and can be selected
 
 
 ## Contributing
