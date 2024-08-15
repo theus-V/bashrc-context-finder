@@ -79,5 +79,4 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
 
 
 ## Contributing
-
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
