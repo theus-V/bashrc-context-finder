@@ -11,7 +11,6 @@ You can view and download the script [here](./info.sh).
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 
 
@@ -45,7 +44,7 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
 
 1. **Download the script**:
    - Download `info.sh`[here](https://github.com/theus-V/bashrc-context-finder/raw/main/info.sh) and choose "Save Link As..." to download the script directly to your computer.
-   - Download `aliases.sh` [here](https://github.com/theus/bashrc-context-finder/raw/main/aliases.sh) and note that the aliases are in German.
+   - Download `aliases.sh` [here](https://github.com/theus-V/bashrc-context-finder/blob/main/aliases.sh) and note that the aliases are in German.
 
 2. **Include the scripts in your bash session**:
    - Move the downloaded scripts to a directory of your choice, for example, `~/scripts/`.
