@@ -24,19 +24,16 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
 ## Installation
 
 1. **Clone the repository**
-   ⤷ 
    ```
    git clone https://github.com/yourusername/bashrc-context-finder.git
    ```
 
 2. **Add the script to your `.bashrc`**
-   ⤷ 
    ```
    echo "source ~/bashrc-context-finder/info.sh" >> ~/.bashrc
    ```
 
 3. **Reload your bash configuration**
-   ⤷ 
    ```
    source ~/.bashrc
    ```
@@ -52,7 +49,6 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
 
 2. **Invoke the script with a keyword**
    ```bash
-    
    i <context keyword>
    ```
      ⤷ 
