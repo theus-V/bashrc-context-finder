@@ -25,20 +25,22 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
 
 ## Installation
 
-1. **Clone the repository**
-   ```
-   git clone https://github.com/yourusername/bashrc-context-finder.git
-   ```
+1. **Download the script**:
+   - [here](https://github.com/yourusername/bashrc-context-finder/raw/main/info.sh) and choose "Save Link As..." to download the script directly to your computer.
 
-2. **Add the script to your `.bashrc`**
-   ```
-   echo "source ~/bashrc-context-finder/info.sh" >> ~/.bashrc
-   ```
+2. **Include the script in your bash session**:
+   - Move the downloaded script to a directory of your choice, for example, `~/scripts/`.
+   - Add the following line to your `.bashrc` file:
+     ```bash
+     source ~/scripts/info.sh
+     ```
 
-3. **Reload your bash configuration**
-   ```
-   source ~/.bashrc
-   ```
+3. **Reload your `.bashrc`**:
+   - Apply the changes by sourcing your `.bashrc`:
+     ```bash
+     source ~/.bashrc
+     ```
+
 ## Usage
 
 1. **Define an alias for 'mv'**
