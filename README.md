@@ -62,10 +62,9 @@ Ich habe dieses Skript entwickelt, um meine Fähigkeiten mit dem Linux-Terminal 
 
 ## Usage
 
-1. **Define an alias for 'mv'**
+1. **For example, define the alias for 'mv' as you wish**
    ```bash
    alias pathrenamemove='mv' # The `mv` command in Unix-based systems is used to move files or directories from ...
-
    ```
 
 2. **Invoke the script with a keyword**
